@@ -37,7 +37,7 @@ Painter's Quest
 ---
 
 # Sprint 1
-- **Sprint Notları**: 
+- **Sprint Notları**: Sprint başına tahmin edilen puan sayısı backlog'ların içine yazılmıştır. 
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
