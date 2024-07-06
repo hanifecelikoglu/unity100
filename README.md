@@ -12,18 +12,22 @@ Unity 100
 - Hacı Osman Koyudemir: Team Member/Developer
 
 ## Ürün İsmi
-
+Painter's Quest
 
 
 ## Ürün Açıklaması
-
-
+-Painter's Quest adlı oyunumuzda, oyuncular bir ressam karakteriyle çeşitli engelleri aşarak boya toplar ve bu boyalarla tuvalde bir eser yaratır. Oyun 2D platform tarzında olup basit ve etkileyici bir  hikayeli oynanış sunar. 
 ## Ürün Özellikleri
-
-
+- Ressamın hikayesi
+-Ressam karakterinin hareket ve zıplama animasyonları
+-Farklı renkte boyaların toplanması
+-Engellerin aşılması için basit bulmacalar.
+-Boyaların hepsinin toplanması halinde elde edilen boyanmış bir tuval.
 
 ## Hedef Kitle
-
+-Platform oyun severler
+-Sanata ilgi duyanlar
+-10 - 40 yaş arası kullanıcılar
 
 
 ## Product Backlog URL
@@ -33,14 +37,17 @@ Unity 100
 ---
 
 # Sprint 1
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Sprint Notları**:
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
-- **Puan tamamlama mantığı**: 
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-- **Backlog düzeni ve Story seçimleri**: 
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+
 
 - **Daily Scrum**: 
 
