@@ -16,7 +16,7 @@ Painter's Quest
 
 
 ## Ürün Açıklaması
--Painter's Quest adlı oyunumuzda, oyuncular bir ressam karakteriyle çeşitli engelleri aşarak boya toplar ve bu boyalarla tuvalde bir eser yaratır. Oyun 2D platform tarzında olup basit ve etkileyici bir  hikayeli oynanış sunar. 
+Painter's Quest adlı oyunumuzda, oyuncular bir ressam karakteriyle çeşitli engelleri aşarak boya toplar ve bu boyalarla tuvalde bir eser yaratır. Oyun 2D platform tarzında olup basit ve etkileyici bir  hikayeli oynanış sunar. 
 ## Ürün Özellikleri
 - Ressamın hikayesinin anlatılması
 - Engellerin aşılması için basit bulmacalar
@@ -27,9 +27,9 @@ Painter's Quest
 
 
 ## Hedef Kitle
--Platform oyun severler
--Sanata ilgi duyanlar
--10 - 40 yaş arası kullanıcılar
+- Hikayeli oyun sevenler
+- Sanata ilgi duyanlar
+- 10 - 40 yaş arası kullanıcılar
 
 
 ## Product Backlog URL
