@@ -18,11 +18,13 @@ Painter's Quest
 ## Ürün Açıklaması
 -Painter's Quest adlı oyunumuzda, oyuncular bir ressam karakteriyle çeşitli engelleri aşarak boya toplar ve bu boyalarla tuvalde bir eser yaratır. Oyun 2D platform tarzında olup basit ve etkileyici bir  hikayeli oynanış sunar. 
 ## Ürün Özellikleri
-- Ressamın hikayesi
+- Ressamın hikayesinin anlatılması
+- Engellerin aşılması için basit bulmacalar
+- Farklı renkte boyaların toplanması
 - Ressam karakterinin hareket ve zıplama animasyonları
--Farklı renkte boyaların toplanması
--Engellerin aşılması için basit bulmacalar.
--Boyaların hepsinin toplanması halinde elde edilen boyanmış bir tuval.
+- Tek seviyeli oyun yapısı
+
+
 
 ## Hedef Kitle
 -Platform oyun severler
