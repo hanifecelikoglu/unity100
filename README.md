@@ -12,11 +12,11 @@ Unity 100
 - Hacı Osman Koyudemir: Team Member/Developer
 
 ## Ürün İsmi
-BOBO's LOST INSPIRATION
+Bobo's Lost Inspiration
 
 
 ## Ürün Açıklaması
-BOBO's LOST INSPIRATION  adlı oyunumuzda, oyuncular bir ressam karakteriyle çeşitli engelleri aşarak boya toplar ve bu boyalarla tuvalde bir eser yaratır. Oyun 2D platform tarzında olup basit ve etkileyici bir  hikayeli oynanış sunar. 
+Bobo's Lost Inspiration adlı oyunumuzda, oyuncular bir ressam karakteriyle çeşitli engelleri aşarak boya toplar ve bu boyalarla tuvalde bir eser yaratır. Oyun 2D platform tarzında olup basit ve etkileyici bir  hikayeli oynanış sunar. 
 ## Ürün Özellikleri
 - Ressamın hikayesinin anlatılması
 - Engellerin aşılması için basit bulmacalar
@@ -34,7 +34,7 @@ BOBO's LOST INSPIRATION  adlı oyunumuzda, oyuncular bir ressam karakteriyle çe
 
 ## Product Backlog URL
 
-[Miro Backlog Board]
+[Miro Backlog Board](https://miro.com/app/board/uXjVK2i0u6o=/)
 
 ---
 
