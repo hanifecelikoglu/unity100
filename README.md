@@ -74,7 +74,7 @@ Bobo's Lost Inspiration adlı oyunumuzda, oyuncular bir ressam karakteriyle çe�
 
 -**Diğer Notlar**:
 
----
+--- Takım değiştirme formuyla oluşan yeni bir takımız, zamanımız diğer ekiplere göre daha kısıtlı olduğu için sprint görevlerimizi yapabileceğimiz şekilde ayarladık.
 
 # Sprint 2
 
