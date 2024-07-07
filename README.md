@@ -60,6 +60,7 @@ Bobo's Lost Inspiration adlı oyunumuzda, oyuncular bir ressam karakteriyle çe�
 
 - **Ürün Durumu**: Ekran görüntüleri:
 -  [Oyunun Hikayesi](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/oyun%20hikayesi.docx)
+-  [Karakter Tasarımı](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/KARAKTER_TASARIMI_SPRITELAR.jpg)
  
 
 - **Sprint Review**: 
