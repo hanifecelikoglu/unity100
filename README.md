@@ -12,11 +12,11 @@ Unity 100
 - Hacı Osman Koyudemir: Team Member/Developer
 
 ## Ürün İsmi
-Painter's Quest
+BOBO's LOST INSPIRATION
 
 
 ## Ürün Açıklaması
-Painter's Quest adlı oyunumuzda, oyuncular bir ressam karakteriyle çeşitli engelleri aşarak boya toplar ve bu boyalarla tuvalde bir eser yaratır. Oyun 2D platform tarzında olup basit ve etkileyici bir  hikayeli oynanış sunar. 
+BOBO's LOST INSPIRATION  adlı oyunumuzda, oyuncular bir ressam karakteriyle çeşitli engelleri aşarak boya toplar ve bu boyalarla tuvalde bir eser yaratır. Oyun 2D platform tarzında olup basit ve etkileyici bir  hikayeli oynanış sunar. 
 ## Ürün Özellikleri
 - Ressamın hikayesinin anlatılması
 - Engellerin aşılması için basit bulmacalar
