@@ -49,12 +49,12 @@ Bobo's Lost Inspiration adlı oyunumuzda, oyuncular bir ressam karakteriyle çe�
 
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden  yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:  [Sprint 1 Daily Scrum Chats] (https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/DailyScrumMeetingNotesSprint1_.docx)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden  yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/DailyScrumMeetingNotesSprint1_.docx)
 
 - **Sprint board update**: Sprint board screenshotları:
-- ![Backlog 1] (https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Backlog_1.png)
-- ![Backlog 2] (https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Backlog_2.png)
-- ![Backlog 3] (https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Backlog_3.png)
+- ![Backlog 1](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Backlog_1.png)
+- ![Backlog 2](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Backlog_2.png)
+- ![Backlog 3](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Backlog_3.png)
   
 
 
