@@ -58,9 +58,12 @@ Bobo's Lost Inspiration adlı oyunumuzda, oyuncular bir ressam karakteriyle çe�
  
 
 - **Sprint Review**: 
-.
+.Alınan kararlar: Unity LTS sürümü hızlıca tüm ekipte yüklenmesine, unity üzerinden proje dosyası açılması, karakter animasyonu denemeleri bir sonraki sprint maddeleri olarak hazırlanmıştır.
 
 - **Sprint Retrospective:**
+-En yakın sürede ekibin unity güncel sürümlerine ulaşması,
+-Karakterin temel hareketlerinden koşma, toplama çizimlerinin tamamlanmasına,
+-Toplantı günlerinin en az 2 gün önceden kararlaştırılmasına karar verilmiştir.
 
 
 -**Diğer Notlar**:
