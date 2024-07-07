@@ -66,7 +66,7 @@ Bobo's Lost Inspiration adlı oyunumuzda, oyuncular bir ressam karakteriyle çe�
  
 
 - **Sprint Review**: 
-.Alınan kararlar: Karakterin temel hareketlerinden koşma, toplama çizimlerinin  2. sprintte tamamlanmasına, uygun asset paketinin karaktere  ve temaya uygun şekilde ayarlanmasına karar verilmiştir.
+Alınan kararlar: Karakterin temel hareketlerinden koşma, toplama çizimlerinin  2. sprintte tamamlanmasına, asset paketinin karaktere  ve temaya uygun şekilde ayarlanmasına karar verilmiştir.
 
 - **Sprint Retrospective:**
 - Sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunması,
