@@ -82,6 +82,11 @@ Alınan kararlar: Karakterin temel hareketlerinden koşma, toplama çizimlerinin
 --- Takım değiştirme formuyla oluşan yeni bir takımız, zamanımız diğer ekiplere göre daha kısıtlı olduğu için sprint görevlerimizi yapabileceğimiz şekilde ayarladık.
 
 # Sprint 2
+-**Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan.
+-**Tamamlanan puan**: 
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden  yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+-  **Toplantı görüntüleri**:
+ 
 
 
 ---
