@@ -83,7 +83,7 @@ Alınan kararlar: Karakterin temel hareketlerinden koşma, toplama çizimlerinin
 
 # Sprint 2
 
-**Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan.
+**Sprint içinde tamamlanması tahmin edilen puan**: 150 Puan.
 -  **Tamamlanan Puan:
 -  **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden  yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
 
