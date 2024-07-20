@@ -55,9 +55,9 @@ Bobo's Lost Inspiration adlı oyunumuzda, oyuncular bir ressam karakteriyle çe�
 - **Toplantı görüntüleri**: [Project Menagment](https://github.com/hanifecelikoglu/unity100/tree/main/ProjectMenagement) içerisindedir.
 
 - **Sprint board update**: Sprint board screenshotları:
-- ![Backlog 1](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Backlog_1.png)
-- ![Backlog 2](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Backlog_2.png)
-- ![Backlog 3](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Backlog_3.png)
+- [Backlog 1](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Backlog_1.png)
+- [Backlog 2](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Backlog_2.png)
+- [Backlog 3](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Backlog_3.png)
   
 
 
