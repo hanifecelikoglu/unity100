@@ -92,8 +92,8 @@ Alınan kararlar: Karakterin temel hareketlerinden koşma, toplama çizimlerinin
 -  **Sprint board update**: Sprint board screenshotları:
 
 -  **Ürün Durumu**: Ekran görüntüleri:
-- ![Logo](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Logo.png).
-- ![Karakter ve İtem Sprite Tasarımı]
+- ![Logo](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Logo.png) Logo
+- ![Karakter ve İtem Sprite Tasarımı](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/bobo_sprite.jpg) Karakter ve İtem Sprite tasarımı
 
 -  **Sprint Review**:
 
