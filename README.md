@@ -16,7 +16,7 @@ Bobo's Lost Inspiration
 
 
 ## Ürün Açıklaması
-Bobo's Lost Inspiration adlı oyunumuzda, oyuncular bir ressam karakteriyle çeşitli engelleri aşarak boya toplar ve bu boyalarla tuvalde bir eser yaratır. Oyun 2D platform tarzında olup basit ve etkileyici bir  hikayeli oynanış sunar. 
+Bobo's Lost Inspiration adlı oyunumuzda, oyuncular bir ressam karakteriyle çeşitli engelleri aşarak boya toplar ve bu boyalarla tuvalde bir eser yaratır. Oyun 2D platform tarzında olup pixel art tarzında basit ve etkileyici bir  hikayeli oynanış sunar. 
 ## Ürün Özellikleri
 - Ressamın hikayesinin anlatılması
 - Engellerin aşılması için basit bulmacalar
