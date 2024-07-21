@@ -91,9 +91,7 @@ Alınan kararlar: Karakterin temel hareketlerinden koşma, toplama çizimlerinin
 - [Discord Meeting 1](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/S2_discord_meeting.png)
 - [Discord Meeting 2](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/S2_discord_meeting2_png.png)
 - [Discord Meeting 3](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/S2_discord_meeting3.png)
--  
   
-
 -  **Sprint board update**: Sprint board screenshotları:
 -  [Backlog1](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/S2_backlog1.png)
 -  [Backlog2](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/S2_backlog2.png)
