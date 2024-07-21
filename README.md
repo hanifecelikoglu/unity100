@@ -104,10 +104,12 @@ Alınan kararlar: Karakterin temel hareketlerinden koşma, toplama çizimlerinin
 - [Unity içerisindeki ürün durumu karakter assetleri](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/unity%C3%BCr%C3%BCndurumu1.png)
 - [Unity içerisindeki ürün durumu itemler](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/unityurundurumu3.png)
 - [Unity içerisindei ürün durumu sesler](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/unityurundurumu2.png)
-- 
+ 
 -  **Sprint Review**:
 Alınan kararlar:•	İletişim kopukluğu çok yaşandı. Bu yüzden sadece discord üzerinden değil whatsapp üzerinden de iletişime geçinilmesi karar verildi.
 •	Tasarım aşaması, hikaye ara sahne çizimleri, ve ana menü hariç bittiği için full yazılıma odaklanılmasına karar verildi.
+
+
 -  **Sprint Retrospective:**
 -  •	Görevlerini zamanında getiremeyen arkadaşlar ve ileriki sprintte zaman aşımı olmaması adına daha dikkatli ve özen gösterilimesine karar verildi.
 
