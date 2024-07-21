@@ -110,8 +110,7 @@ Alınan kararlar:•	İletişim kopukluğu çok yaşandı. Bu yüzden sadece dis
 •	Tasarım aşaması, hikaye ara sahne çizimleri, ve ana menü hariç bittiği için full yazılıma odaklanılmasına karar verildi.
 
 
--  **Sprint Retrospective:**
--  •	Görevlerini zamanında getiremeyen arkadaşlar ve ileriki sprintte zaman aşımı olmaması adına daha dikkatli ve özen gösterilimesine karar verildi.
+-  **Sprint Retrospective:** Görevlerini zamanında getiremeyen arkadaşlar ve ileriki sprintte zaman aşımı olmaması adına daha dikkatli ve özen gösterilimesine karar verildi.
 
  
 
