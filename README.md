@@ -84,19 +84,35 @@ Alınan kararlar: Karakterin temel hareketlerinden koşma, toplama çizimlerinin
 # Sprint 2
 
 **Sprint içinde tamamlanması tahmin edilen puan**: 150 Puan.
--  **Tamamlanan Puan:
--  **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden  yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+-  **Tamamlanan Puan: 110
+-  **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden  yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/DailyScrumMeetingNotesSprint2.docx)
 
 -  **Toplantı görüntüleri**:
+- [Discord Meeting 1](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/S2_discord_meeting.png)
+- [Discord Meeting 2](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/S2_discord_meeting2_png.png)
+- [Discord Meeting 3](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/S2_discord_meeting3.png)
+-  
+  
 
 -  **Sprint board update**: Sprint board screenshotları:
+-  [Backlog1](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/S2_backlog1.png)
+-  [Backlog2](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/S2_backlog2.png)
+-  [Backlog3](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/S2_backlog3.png)
 
 -  **Ürün Durumu**: Ekran görüntüleri:
 - ![Logo](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Logo.png) 
 - ![Karakter ve İtem Sprite Tasarımı](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Ads%C4%B1z_Resim.jpg?raw=true)
+- [Game Design Document](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Game-Design-Document-Template.docx)
+- [Unity içerisindeki ürün durumu karakter assetleri](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/unity%C3%BCr%C3%BCndurumu1.png)
+- [Unity içerisindeki ürün durumu itemler](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/unityurundurumu3.png)
+- [Unity içerisindei ürün durumu sesler](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/unityurundurumu2.png)
+- 
 -  **Sprint Review**:
+Alınan kararlar:•	İletişim kopukluğu çok yaşandı. Bu yüzden sadece discord üzerinden değil whatsapp üzerinden de iletişime geçinilmesi karar verildi.
+•	Tasarım aşaması, hikaye ara sahne çizimleri, ve ana menü hariç bittiği için full yazılıma odaklanılmasına karar verildi.
+-  **Sprint Retrospective:**
+-  •	Görevlerini zamanında getiremeyen arkadaşlar ve ileriki sprintte zaman aşımı olmaması adına daha dikkatli ve özen gösterilimesine karar verildi.
 
--  **Sprint Retrospective:** 
  
 
 
