@@ -95,6 +95,7 @@ GameObject:
   - component: {fileID: 4960463063858809426}
   - component: {fileID: 309049233984848665}
   - component: {fileID: 7871133384038414195}
+  - component: {fileID: 1077834745510321822}
   m_Layer: 0
   m_Name: tilemap_104 (4)
   m_TagString: Untagged
@@ -215,3 +216,17 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.3598101, y: 0.18}
   m_EdgeRadius: 0
+--- !u!114 &1077834745510321822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7553315831151896523}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 441822dc4a5c23943935b180c3d4596c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 3
+  jumpSpeed: 10
