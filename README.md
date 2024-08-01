@@ -118,5 +118,22 @@ Alınan kararlar:•	İletişim kopukluğu çok yaşandı. Bu yüzden sadece dis
 ---
 
 # Sprint 3
+**Sprint içinde tamamlanması tahmin edilen puan**: 150 Puan.
+-  **Tamamlanan Puan: 
+
+**Daily Scrum**:
+
+**Toplantı görüntüleri**:
+
+
+**Sprint board update**:
+
+**Ürün Durumu**: Ekran görüntüleri:
+
+**Sprint Review**:
+
+**Sprint Retrospective:**
+
+
 
 ---
