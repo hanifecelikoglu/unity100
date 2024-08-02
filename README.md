@@ -119,20 +119,37 @@ Alınan kararlar:•	İletişim kopukluğu çok yaşandı. Bu yüzden sadece dis
 
 # Sprint 3
 **Sprint içinde tamamlanması tahmin edilen puan**: 190 Puan.
--  **Tamamlanan Puan: 
+-  **Tamamlanan Puan: 165
 
-**Daily Scrum**:
+**Daily Scrum**:Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden  yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Spirnt 3 Daily Scrum Chats](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/DailyScrumMeetingNotesSpirnt3.docx)
+
 
 **Toplantı görüntüleri**:
+- [Discord Meeting 1](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/_discordmeeting1.png)
+- [Discord Meeting 2](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/_discordmeeting2.png)
+- [Discord Meeting 3](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/_discordmeeting3.png)
 
+**Sprint board update**: Sprint board screenshotları:
+-  [Backlog1](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/S3_BACKLOG1.png)
+-  [Backlog2](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/S3_BACKLOG1.png)
+-  [Backlog3](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/S3_BACKLOG3.png)
 
-**Sprint board update**:
 
 **Ürün Durumu**: Ekran görüntüleri:
+-  ![Giriş Ekranı İllüstrasyonu](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Giris%CC%A7_Ekran%C4%B1_.png)
+-  ![Oyun içi hikaye illüstrasyonları](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Hikaye_Birinci_K%C4%B1s%C4%B1m_.png)
+-  ![Oyun içi hikaye illüstrasyonları_2](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Hikaye_Renk_Buldugunda_.png)
+-  ![Oyun Sonu İllüstrasyonu](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Final_Sahne.png)
+-  ![Unity içerisinde oyun 1](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-08-02%20145737.png)
+-  ![Unity içerisinde oyun 2](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-08-02%20234434.png)
+-  ![Unity içerisinde oyun 3](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-08-02%20234521.png)
+-  ![Unity içerisinde oyun 4](https://github.com/hanifecelikoglu/unity100/blob/main/ProjectMenagement/Sprint%20Documents/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-08-02%20234608.png)
 
-**Sprint Review**:
+
+**Sprint Review**: Herkesin çok yoğun olduğu bir döneme denk geldi. Bir kişi de eksik olduğumuz için görev dağılımında ve görevleri yetiştirmekte zorluklar yaşadık. Ekip olarak süreç içerisinde birbirimizi destekleyerek yoğunlukları ve özel durumları anlayışla karşıladık. Herkes elinden geldiğince oyunu yetiştirmeye çalıştı fakat. Ses, hikaye yazı olarak eklenmesi gibi bazı eksikliklerimiz kaldı.
 
 **Sprint Retrospective:**
+Uygun bir aralıkta oyunu bitirmeye karar verildi.
 
 
 
