@@ -4890,30 +4890,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4960463063858809426, guid: d782539ce02d7db4fa0defa326299d7d, type: 3}
   m_PrefabInstance: {fileID: 4540072742033861052}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1856911149 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3970957941851480484, guid: 8cf2acbbf2136a64d80ede687d98e0a4, type: 3}
-  m_PrefabInstance: {fileID: 2066743582}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &1856911157 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 6692760218756886648, guid: 8cf2acbbf2136a64d80ede687d98e0a4, type: 3}
-  m_PrefabInstance: {fileID: 2066743582}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1856911158
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1856911149}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e37b6f6b05aaf2b4b9b23e1f83122b9f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 1
-  _camera: {fileID: 0}
 --- !u!1001 &1860176746
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5541,6 +5517,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bobo
       objectReference: {fileID: 0}
+    - target: {fileID: 4732071809733619348, guid: 8cf2acbbf2136a64d80ede687d98e0a4, type: 3}
+      propertyPath: _camera
+      value: 
+      objectReference: {fileID: 528983239}
     - target: {fileID: 6692760218756886648, guid: 8cf2acbbf2136a64d80ede687d98e0a4, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6.3
@@ -5581,22 +5561,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6705326741175496299, guid: 8cf2acbbf2136a64d80ede687d98e0a4, type: 3}
-      propertyPath: target
-      value: 
-      objectReference: {fileID: 1856911157}
-    - target: {fileID: 6705326741175496299, guid: 8cf2acbbf2136a64d80ede687d98e0a4, type: 3}
-      propertyPath: cameraSpeed
-      value: 1
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 2816123295555159189, guid: 8cf2acbbf2136a64d80ede687d98e0a4, type: 3}
+    m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 3970957941851480484, guid: 8cf2acbbf2136a64d80ede687d98e0a4, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1856911158}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8cf2acbbf2136a64d80ede687d98e0a4, type: 3}
 --- !u!1001 &2093334313
 PrefabInstance:

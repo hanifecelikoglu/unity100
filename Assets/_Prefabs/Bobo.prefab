@@ -13,8 +13,8 @@ GameObject:
   - component: {fileID: 5621028017035974416}
   - component: {fileID: 6772533576365828373}
   - component: {fileID: 2824566854925280684}
-  - component: {fileID: 2816123295555159189}
-  - component: {fileID: 6705326741175496299}
+  - component: {fileID: 8587698688934982504}
+  - component: {fileID: 4732071809733619348}
   m_Layer: 0
   m_Name: Bobo
   m_TagString: Untagged
@@ -172,7 +172,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &2816123295555159189
+--- !u!114 &8587698688934982504
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -181,12 +181,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 3970957941851480484}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 441822dc4a5c23943935b180c3d4596c, type: 3}
+  m_Script: {fileID: 11500000, guid: e37b6f6b05aaf2b4b9b23e1f83122b9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 3
-  jumpSpeed: 10
---- !u!114 &6705326741175496299
+  speed: 1
+  _camera: {fileID: 0}
+--- !u!114 &4732071809733619348
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -195,8 +195,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 3970957941851480484}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec1b9cc69c0e2dd45ad0a7381dbad54e, type: 3}
+  m_Script: {fileID: 11500000, guid: e37b6f6b05aaf2b4b9b23e1f83122b9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 6692760218756886648}
-  cameraSpeed: 2
+  speed: 1
+  _camera: {fileID: 0}
